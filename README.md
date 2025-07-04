@@ -1,11 +1,9 @@
 # 🤖 Building-Chatbot  
-*A conversational AI assistant for [customer support/travel booking/mental health/etc.]. Developed during Summer Internship 2025.*  
+Developed during Summer Internship 2025.*  
 
 ## ✨ Features  
 - **Natural Language Understanding (NLU)** - Recognizes user intents with 85% accuracy  
 - **Multi-turn Dialogue Management** - Handles complex conversations  
-- **API Integration** - Connects to [Weather Service/Booking API/etc.]  
-- **Sentiment Analysis** - Detects user emotions  
 - **Multi-language Support** - [English/Indonesian/etc.]  
 
 ## 🚀 Quick Start  
