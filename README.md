@@ -4,7 +4,7 @@ Developed during Summer Internship 2025.*
 ## ✨ Features  
 - **Natural Language Understanding (NLU)** - Recognizes user intents with 85% accuracy  
 - **Multi-turn Dialogue Management** - Handles complex conversations  
-- **Multi-language Support** - [English/Indonesian/etc.]  
+- **Multi-language Support** -  
 
 ### Installation  
 ```bash
