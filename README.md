@@ -2,8 +2,8 @@
 Developed during Summer Internship 2025.*  
 
 ## ✨ Features  
-- **Natural Language Understanding (NLU)** - Recognizes user intents with 85% accuracy  
-- **Multi-turn Dialogue Management** - Handles complex conversations  
+- **Natural Language Understanding (NLU)** - 
+- **Multi-turn Dialogue Management** -  
 - **Multi-language Support** -  
 
 ### Installation  
