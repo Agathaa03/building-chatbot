@@ -6,12 +6,6 @@ Developed during Summer Internship 2025.*
 - **Multi-turn Dialogue Management** - Handles complex conversations  
 - **Multi-language Support** - [English/Indonesian/etc.]  
 
-## 🚀 Quick Start  
-
-### Prerequisites  
-- Python 3.8+  
-- pip  
-
 ### Installation  
 ```bash
 # Clone repository
