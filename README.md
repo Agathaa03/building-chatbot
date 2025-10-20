@@ -1,19 +1,18 @@
-# 🤖 Building-Chatbot  
-Developed during Summer Internship 2025.*  
+# Building-Chatbot
 
-## ✨ Features  
-- **Natural Language Understanding (NLU)** - 
-- **Multi-turn Dialogue Management** -  
-- **Multi-language Support** -  
+Developed during Summer Internship 2025.*
 
-### Installation  
-```bash
-# Clone repository
-git clone https://github.com/Agathaa03/building-chatbot.git
-cd building-chatbot
+## Features
 
-# Install dependencies
-pip install -r requirements.txt
+- **Natural Language Understanding (NLU)** - Understanding user intents and entities
+- **Multi-turn Dialogue Management** - Managing conversational context across multiple turns  
+- **Multi-language Support** - Supporting multiple languages including English and Indonesian
 
-# Run chatbot
-python src/main.py
+### Installation
+
+- **Clone repository**
+  ```bash
+  git clone https://github.com/Agathaa03/building-chatbot.git
+  cd building-chatbot
+
+  pip install -r requirements.txt
