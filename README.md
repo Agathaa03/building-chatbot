@@ -1,18 +1,17 @@
-# Building-Chatbot
+# 🤖 AI Chatbot - Internship Project
 
-Developed during Summer Internship 2025.*
+A web-based AI chatbot application developed for educational internship at Baikal School of BRICS INRTU.
 
-## Features
+## 🚀 Live Application
 
-- **Natural Language Understanding (NLU)** - Understanding user intents and entities
-- **Multi-turn Dialogue Management** - Managing conversational context across multiple turns  
-- **Multi-language Support** - Supporting multiple languages including English and Indonesian
+The chatbot features a **working web interface** built with Flask that demonstrates AI capabilities in a real application.
 
-### Installation
+### Quick Start
+```bash
+# 1. Install dependencies
+pip3 install -r requirements.txt
 
-- **Clone repository**
-  ```bash
-  git clone https://github.com/Agathaa03/building-chatbot.git
-  cd building-chatbot
+# 2. Run the application
+python3 web_app.py
 
-  pip install -r requirements.txt
+# 3. Open browser to: http://127.0.0.1:5000
